@@ -35,8 +35,6 @@ http://localhost:8080/swagger-ui/index.html#/
 10. **Simplified User Interface**:  
    The system should provide an intuitive interface for managing teams, players, tournaments, and matches. Users should be able to easily add, update, or view data for each entity without needing complex navigation.
 
-Got it! If your current system doesn't involve different roles or registrations, we can focus on the main features relevant to your schema without the need for user role management or registration features. Here's an updated version of the MVP features, excluding those aspects:
-
 ### 2. **Main Features for the MVP (Minimum Viable Product) Phase (Revised)**
 
 1. **Team and Player Management**:
