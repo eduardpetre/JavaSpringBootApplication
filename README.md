@@ -6,13 +6,13 @@ http://localhost:8080/swagger-ui/index.html#/
 ### 1. **Business Requirements for the Chosen Business Domain**
 
 1. **Team Creation and Management**:  
-   The system should allow the creation of esports teams, with key information such as team name, number of tournaments participated in, and the year the team was founded. It should support editing team details as needed.
+   The system should allow the creation of sports teams, with key information such as team name, number of tournaments won, and the year the team was founded. It should support editing team details as needed.
 
 2. **Player Registration and Association**:  
    Players should be registered within the system with personal details, including first name, last name, nickname, and birthdate. The system should associate players with a specific team, if applicable, through a foreign key relationship.
 
 3. **Tournament Management**:  
-   The system should manage esports tournaments by allowing the creation of tournaments with information like title, year, and associated teams. Tournaments will also link to detailed information such as attendance and prize pool, helping track the tournament’s size and financial details.
+   The system should manage sports tournaments by allowing the creation of tournaments with information like title, year, and associated teams. Tournaments will also link to detailed information such as attendance and prize pool, helping track the tournament’s size and financial details.
 
 4. **Match Management**:  
    The system should support managing matches within tournaments, with key details such as match title, sport type, and score. Match data should be associated with the corresponding tournament and sport category.
@@ -38,7 +38,7 @@ http://localhost:8080/swagger-ui/index.html#/
 ### 2. **Main Features for the MVP (Minimum Viable Product) Phase**
 
 1. **Team and Player Management**:
-   - **Team Management**: The system should allow the creation and management of esports teams, with attributes such as team name, the number of tournaments participated in, and year founded.
+   - **Team Management**: The system should allow the creation and management of sports teams, with attributes such as team name, the number of tournaments won, and year founded.
    - **Player Management**: The system should allow for adding players with details such as first name, last name, nickname, date of birth, and their assigned team (if applicable).
    - **Player-Team Association**: Players can be linked to teams, and each player should have a unique nickname.
 
