@@ -3,7 +3,7 @@
 ## Swagger UI Documentation 
 http://localhost:8080/swagger-ui/index.html#/
 
-### 1. **Business Requirements for the Chosen Business Domain (Esports Tournaments and Teams)**
+### 1. **Business Requirements for the Chosen Business Domain**
 
 1. **Team Creation and Management**:  
    The system should allow the creation of esports teams, with key information such as team name, number of tournaments participated in, and the year the team was founded. It should support editing team details as needed.
@@ -35,7 +35,7 @@ http://localhost:8080/swagger-ui/index.html#/
 10. **Simplified User Interface**:  
    The system should provide an intuitive interface for managing teams, players, tournaments, and matches. Users should be able to easily add, update, or view data for each entity without needing complex navigation.
 
-### 2. **Main Features for the MVP (Minimum Viable Product) Phase (Revised)**
+### 2. **Main Features for the MVP (Minimum Viable Product) Phase**
 
 1. **Team and Player Management**:
    - **Team Management**: The system should allow the creation and management of esports teams, with attributes such as team name, the number of tournaments participated in, and year founded.
